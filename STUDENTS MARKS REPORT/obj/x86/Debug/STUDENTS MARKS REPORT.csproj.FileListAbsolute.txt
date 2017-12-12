@@ -1,0 +1,27 @@
+C:\Users\bushharanyab\AppData\Local\Temporary Projects\STUDENTS MARKS REPORT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bushharanyab\AppData\Local\Temporary Projects\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\bushharanyab\AppData\Local\Temporary Projects\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\bushharanyab\AppData\Local\Temporary Projects\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\bushharanyab\AppData\Local\Temporary Projects\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\bushharanyab\documents\visual studio 2010\Projects\STUDENTS MARKS REPORT\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\bushharanyab\documents\visual studio 2010\Projects\STUDENTS MARKS REPORT\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Downloads\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Desktop\adv\poprawiony\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\bin\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Desktop\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015\Projects\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.exe
+C:\Users\Piotr\Documents\Visual Studio 2015\Projects\adv\pierwotny\console application in C%23 for Beginners\C#\STUDENTS MARKS REPORT\obj\x86\Debug\STUDENTS MARKS REPORT.pdb
